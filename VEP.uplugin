@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0.1",
+	"SemVersion": "0.0.1",
+	"FriendlyName": "VanillaExpansionsPlus",
+	"Description": "New variations to add to vanilla content.",
+	"Category": "Modding",
+	"CreatedBy": "xXdrewbaccaXx",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
